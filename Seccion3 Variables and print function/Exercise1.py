@@ -9,7 +9,7 @@
     Using these variables and the print() function, print to the console the following text: "I love Python 3.8!"
 '''
 languaje = 'Python'
-version = '3.8!'
+version = '3.8'
 
-print('I love',languaje,version)
+print(f'I love {languaje} {version}!')
 
