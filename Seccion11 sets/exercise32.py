@@ -11,5 +11,4 @@ Using the appropriate method, extract the symmetrical difference of sets A and B
 Expected result: Symmetric difference: {2, 6, 8, 10}'''
 A = {2, 4, 6, 8}
 B = {4, 10}
-print(A^B)
 print(f'Symmetric difference: {A.symmetric_difference(B)}')
